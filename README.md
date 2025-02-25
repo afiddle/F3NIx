@@ -32,7 +32,7 @@ F3NIx-KP-Decks/
 
 ### Deck herunterladen
 
-1. Laden Sie die `.colpkg`-Datei (ca. 2,4 GB) über unseren [Google-Drive-Link](https://drive.google.com/file/d/1TY02pTKw9_7RuJl2Y_edhV5bXmQglf6h/view?usp=sharing) herunter.  
+1. Laden Sie die `.apkg`-Datei (ca. 186 MB) über unseren [Google-Drive-Link](https://drive.google.com/file/d/10Tgt7pq5Fdas_WUTKRtVUZuMsZLu5Omo/view?usp=sharing) herunter.  
 2. Öffnen bzw. importieren Sie die Datei in einer **aktuellen** Anki-Version (2.1+).  
 3. Passen Sie das Deck nach Belieben an—fügen Sie eigene Karten hinzu oder entfernen Sie welche.
 
