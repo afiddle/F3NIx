@@ -8,7 +8,7 @@
 ```
 F3NIx-KP-Decks/ 
 │ 
-├── READMEde.md <-- Diese Datei (Projektübersicht, Anleitungen, Credits) 
+├── README.md <-- Diese Datei (Projektübersicht, Anleitungen, Credits) 
 ├── LICENSE <-- Lizenzdatei 
 ├── images/ 
 │ ├── homescreen1.png <-- Screenshot vom Deck-Inhalt 
