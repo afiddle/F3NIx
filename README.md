@@ -1,7 +1,7 @@
 # F3NIx Kenntnisprüfung Anki Decks
 
 > **Ein Anki-Deck zur optimalen Vorbereitung auf die Kenntnisprüfung der Ärztekammer Niedersachsen (Hannover).**  
-> **Besonderer Dank an Rojhat** für die Erstellung der KP_899.pdf, der Hauptquelle für dieses Deck.
+> **Besonderer Dank ebenfalls an Rojhat** für die Erstellung der KP_899.pdf, der Hauptquelle für dieses Deck.
 
 ## Repository-Struktur
 
