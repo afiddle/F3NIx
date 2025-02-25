@@ -9,10 +9,15 @@
 ## Repository Structure
 
 ``` 
-F3Nix-KP-Decks/ 
+F3NIx-KP-Decks/ 
 │ 
 ├── README.md <-- This file (project overview, instructions, credits) 
 ├── LICENSE <-- License file
+├── images/
+│    ├── homescreen1.png     <-- Screenshot of deck content
+│    ├── homescreen2.png
+│    ├── homescreen3.png
+│    └── homescreen4.png
 └── ...
 ```
 
@@ -26,7 +31,7 @@ F3Nix-KP-Decks/
 ## How To Use
 
 ### Downloading the Deck
-1. You can download the `.apkg` or `.colpkg` file (approx. 2.4GB) from our [Google Drive link](https://drive.google.com/file/d/1TY02pTKw9_7RuJl2Y_edhV5bXmQglf6h/view?usp=sharing).
+1. You can download the `.colpkg` file (approx. 2.4GB) from our [Google Drive link](https://drive.google.com/file/d/1TY02pTKw9_7RuJl2Y_edhV5bXmQglf6h/view?usp=sharing).
 2. Open/Import it with a **recent** Anki version (2.1+ recommended).
 3. Customize, add, or remove cards as you wish—everything is flexible.
 
